@@ -67,6 +67,10 @@ The dashboard was built using the following tools and technologies:
 ### 🎯 Business Value
 - Supports sales forecasting  
 - Improves inventory planning  
+
+
+## 6. Screenshots /Demos 
+Example: [Dashboard Preview](https://github.com/guleriarohit365-prog/Sales-Dashboard-2020-22/blob/main/Screenshot%20of%20sales%20dashboard.png)
 - Helps identify high-performing categories  
 - Enables data-driven business decisions  
 - Enhances revenue and profit monitoring  
